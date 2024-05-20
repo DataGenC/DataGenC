@@ -10,8 +10,12 @@
 - ❓ Ask me about anything related to Data Science, Data Engineering & Cloud.  
   
 
-- ⚡ Fun fact: I  love to be on the cloud.  
-  
+- ⚡ Fun fact: I  love to be on the cloud.
+
+<div align="center">
+  <span style="font-size: 16px;"> PORTFOLIO WORK IN PROGRESS !!! <img src="https://github.com/DataGenC/DataGenC/assets/90271634/f086dac6-037c-4c1e-be99-71d66fb7a50b" alt="Portfolio Work in Progress" width="22"/>
+  <br/></span>
+</div>
 
 <br/>  
 
