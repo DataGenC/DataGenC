@@ -4,10 +4,10 @@
 - 🔭I am a Data Science Postgraduate and Endeavoring to be a Full-stack Data Scientist.  
   
 
-- 🌱 I am currently exploring the fascinating world of AI, intending to gain a comprehensive understanding of this cutting-edge technology.   
+- 🌱 I am currently exploring the fascinating world of AI, intending to gain a comprehensive understanding of this cutting-edge technology. Looking Forward to contribute. 
   
 
-- ❓ Ask me about anything related to Data Science, Data Engineering & Cloud.  
+- ❓ Ask me about anything related to Data Science, AI & Cloud.  
   
 
 - ⚡ Fun fact: I  love to be on the cloud.
@@ -82,12 +82,12 @@
     </td>
     <td valign="top" width="20%">
 
-### Data Engineering
+<!--### Data Engineering
   <div align="center">
       <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/4ee5da91-f1a0-4185-9e1f-858f6468cec6" alt="GCP" height="50" /></a>
       <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/74cffdac-0207-4f7d-b58a-590f5a9c4cf4" alt="Hadoop" height="50" /></a>
       <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/0a3e16e5-95af-45d3-b230-d2b485c61f54" alt="Spark" height="50" /></a>
-     <a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/da1892e5-cf75-457a-a669-13b11892b280" alt="Airflow" height="50" /></a>
+     <a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/da1892e5-cf75-457a-a669-13b11892b280" alt="Airflow" height="50" /></a> -->
         
 <!-- <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
         <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
@@ -111,7 +111,7 @@
 <a href="https://github.com/DataGenC" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/https://medium.com/datagenc" target="_blank">
+<a href="https://medium.com/@datagenc" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/chandandehury" target="_blank">
@@ -122,7 +122,7 @@
 
 <br/>  
 
-
+<!--
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DataGenC&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
@@ -155,6 +155,6 @@
 <br/>  
 
 
-<br />
+<br /> -->
 
 ----
