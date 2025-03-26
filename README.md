@@ -80,7 +80,7 @@
     <a href="https://www.ibm.com/products/db2" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/222e749b-665c-4dbc-9b5e-e29643a5d778" alt="DB2" height="50" /></a>
       </div>
     </td>
-    <td valign="top" width="20%">
+   <!-- <td valign="top" width="20%"> -->
 
 <!--### Data Engineering
   <div align="center">
