@@ -4,7 +4,7 @@
 - 🔭I am a Data Science Postgraduate and Endeavoring to be a Full-stack Data Scientist.  
   
 
-- 🌱 I am currently exploring the fascinating world of AI, intending to gain a comprehensive understanding of this cutting-edge technology. Looking Forward to contribute. 
+- 🌱 Professional Motto : Engineering Data Science Solutions with a Curious Mind and a Notebook.
   
 
 - ❓ Ask me about anything related to Data Science, AI & Cloud.  
@@ -13,7 +13,9 @@
 - ⚡ Fun fact: I  love to be on the cloud.
 
 <div align="center">
-  <span style="font-size: 16px;"> PORTFOLIO WORK IN PROGRESS !!! <img src="https://github.com/DataGenC/DataGenC/assets/90271634/f086dac6-037c-4c1e-be99-71d66fb7a50b" alt="Portfolio Work in Progress" width="22"/>
+  
+  **_A portfolio designed to delve deep and mimic actual professional scenarios in Data Science and Artificial Intelligence._**
+
    
   <br/></span>
 </div>
