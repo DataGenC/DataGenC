@@ -50,8 +50,7 @@
       <td valign="top" width="33%">
         <h3 align="center">Frameworks & Libraries</h3>
         <p align="center">
-          <img src="https://img.shields.io/badge/Numpy-53aed1?style=for-the-badge&logo=numpy
-          " alt="Numpy"/>
+          <img src="https://img.shields.io/badge/Numpy-53aed1?style=for-the-badge&logo=numpy" alt="Numpy"/>
           <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
           <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
           <img src="https://img.shields.io/badge/matplotlib-eac210?style=for-the-badge&logo=matplotlib" alt="Matplotlib"/>
