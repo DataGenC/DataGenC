@@ -1,6 +1,13 @@
-### <div align="center">Hey There 👋 , I'm Chandan. Welcome to my Portfolio</div>  
-  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3000&pause=500&color=4EA8DE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Chandan+Dehury;A+Curious+Data+Professional;Welcome+To+My+Portfolio" alt="Typing SVG" />
+</div>
+<div align="center">
 
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
+</div>
+<br/>
+
+## 💼 Professional Summary
 - 🔭I am a Data Science Postgraduate and Endeavoring to be a Full-stack Data Scientist.  
   
 
@@ -12,151 +19,179 @@
 
 - ⚡ Fun fact: I  love to be on the cloud.
 
+<br/>
+
 <div align="center">
   
   **_A portfolio designed to delve deep and mimic actual professional scenarios in Data Science and Artificial Intelligence._**
+<br/></span>
 
-   
-  <br/></span>
 </div>
- 
-<br/>  
 
-**Actively refining my expertise in the following technology stack & looking for opportunity to work and solve real world problems with these tools.**
-## My Skill Set
-
-<table>
-  <tr>
-    <td valign="top" width="15%">
- 
-### Core Tools
-  <div align="center">
-        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/6f341733-b5c1-4118-9b99-6ee62cb76673" alt="Python" height="50" /></a>
-        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/025abc9a-dc9b-4941-ab68-d259b27c5d17" alt="MySQL" height="50" /></a>
-        <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/7dd63ef4-0258-489b-9932-8f07ff0681ac" alt="R" height="50" /></a>
-        <br/><br/>
-        <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>
-      </div>
-    </td>
-    <td valign="top" width="15%">
- 
-### BI Tools
 <div align="center">
-        <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a> 
-  <a href="https://lookerstudio.google.com/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/b11e1f68-7308-441c-9eb2-1d24b25116d8" alt="Looker Studio" height="50" /></a>
-  <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/fd3c2f8f-0e43-43eb-9908-b76ac4a067aa" alt="Tableau" width= "320" height="70" /></a><br/>
-        
-   </div>
-    </td>
-<td valign="top" width="25%">
-      
-### Machine Learning Libraries
-      
-  <div align="center">
-    <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/b60c42df-cebd-45b2-a26f-a730ae87e294" alt="Numpy" height="50" /></a>
-    <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/b383adc2-2292-4afb-8b96-fd8780dcd116" alt="pandas" height="50" /></a><br/>
-    <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/95884c9a-4fef-4814-b776-61220ebb2d12" alt="matplotlib" height="50" width= "100" /></a>
-<br/>
-    <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/4a04bbc8-9058-433d-bc3a-acc9794082cc" alt="seaborn" height="50"  width= "100"/></a><br/>
-    <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/cd1374fe-6337-47e5-a627-858cdccac844" alt="Scikit-learn" height="50" /></a>
-    <a href="https://www.nltk.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/c55e5048-d06d-48e0-9c85-d4806f3d80f5" alt="NLTK" height="50" /></a>
-    <a href="https://scipy.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/ebea2c67-52a7-49c7-94a3-39c486104407" alt="Scipy" height="50" /></a>
-        
-        
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 </div>
-    </td>
-<td valign="top" width="15%">
-      
-### Deep Learning Frameworks
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/6a92826f-160c-4294-9ba5-d5a07a4b8b5a" alt="TensorFlow" height="50" /></a>
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/2bcf2694-b771-4ce8-adfc-5e214e153582" alt="pytorch" height="50" /></a>
-  
-  <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/a32b4313-6c8b-4f97-b8dc-cf17dc99e5fc" alt="pytorch" height="50" /></a>
-<td valign="top" width="20%">
 
-### Database & Data Warehouse
-  <div align="center">
-        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/8def6d83-deeb-428c-83b4-74f185ab8af0" alt="PostgreSQL" height="50" /></a><br/>
-    <a href="https://www.snowflake.com/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/8df7cc49-f393-4163-bbb5-3231ec67d0d1" alt="Snowflake" height="50" /></a>
-    <a href="https://cloud.google.com/bigquery" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/4de89520-b17d-42be-9321-5d557e6ce24c" alt="BigQuery" height="50" /></a>
-    <a href="https://www.ibm.com/products/db2" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/222e749b-665c-4dbc-9b5e-e29643a5d778" alt="DB2" height="50" /></a>
-      </div>
-    </td>
-   <!-- <td valign="top" width="20%"> -->
-
-<!--### Data Engineering
-  <div align="center">
-      <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/4ee5da91-f1a0-4185-9e1f-858f6468cec6" alt="GCP" height="50" /></a>
-      <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/74cffdac-0207-4f7d-b58a-590f5a9c4cf4" alt="Hadoop" height="50" /></a>
-      <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/0a3e16e5-95af-45d3-b230-d2b485c61f54" alt="Spark" height="50" /></a>
-     <a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/DataGenC/DataGenC/assets/90271634/da1892e5-cf75-457a-a669-13b11892b280" alt="Airflow" height="50" /></a> -->
-        
-<!-- <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
-        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-        
-        
-        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-        <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a> -->
-      
-      
-  </div>
-    </td>
-  </tr>
-</table>
-
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/DataGenC" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@datagenc" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/chandandehury" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-<!--
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DataGenC&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
- 
-
-<br/>  
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=DataGenC&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">Languages</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <br/>
+          <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+          <br/>
+          <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+        </p>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Frameworks & Libraries</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Numpy-53aed1?style=for-the-badge&logo=numpy
+          " alt="Numpy"/>
+          <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+          <img src="https://img.shields.io/badge/matplotlib-eac210?style=for-the-badge&logo=matplotlib" alt="Matplotlib"/>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        </p>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Databases & Visualization</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+          <img src="https://img.shields.io/badge/Big%20Query-5086ec?style=for-the-badge" alt="BIG QUERY"/>
+          <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
+          <img src="https://img.shields.io/badge/POWER%20BI-eac210?style=for-the-badge" alt="POWER BI"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/DataGenC" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>  
-
-<br/>  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
+</div>
 
 
-<br /> -->
+## 💪 AI Expertise & Specializations
 
-----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+      <div style="border: 1px solid #fefefeff; border-radius: 8px; padding: 16px; margin: 16px 0;">
+        <img src="https://img.shields.io/badge/Machine%20Learning-4EA8DE?style=for-the-badge&logoColor=white" alt="Machine Learning"/>
+        <br>
+        <div>
+          <img src="https://img.shields.io/badge/Regression-0D1117?style=flat-square&logoColor=white" alt="Regression"/>
+          <img src="https://img.shields.io/badge/Classification-0D1117?style=flat-square&logoColor=white" alt="Classification"/>
+          <img src="https://img.shields.io/badge/Clustering-0D1117?style=flat-square&logoColor=white" alt="Clustering"/>
+          <img src="https://img.shields.io/badge/Ensemble%20Methods-0D1117?style=flat-square&logoColor=white" alt="Ensemble Methods"/>
+          <img src="https://img.shields.io/badge/Feature%20Engineering-0D1117?style=flat-square&logoColor=white" alt="Feature Engineering"/>
+          <img src="https://img.shields.io/badge/Model%20Tuning%20&%20Optimization-0D1117?style=flat-square&logoColor=white" alt="Model Tuning & Optimization"/>
+        </div>
+      </td>
+      <td align="center">
+      <div style="border: 1px solid #fefefeff; border-radius: 8px; padding: 16px; margin: 16px 0;">
+        <img src="https://img.shields.io/badge/DataScience%20&%20Analytics-F783AC?style=for-the-badge&logoColor=white" alt="Data Science & Analytics"/>
+        <br>
+        <div>
+          <img src="https://img.shields.io/badge/EDA-0D1117?style=flat-square&logoColor=white" alt="EDA"/>
+          <img src="https://img.shields.io/badge/DataCleaning%2FWrangling-0D1117?style=flat-square&logoColor=white" alt="ata Cleaning/Wrangling"/>
+          <img src="https://img.shields.io/badge/Dashboarding-0D1117?style=flat-square&logoColor=white" alt="Dashboarding"/>
+          <img src="https://img.shields.io/badge/Hypothesis%20Testing-0D1117?style=flat-square&logoColor=white" alt="Hypothesis Testing"/>
+          <img src="https://img.shields.io/badge/A/B%20Testing-0D1117?style=flat-square&logoColor=white" alt="A/B Testing"/>
+          <img src="https://img.shields.io/badge/Statistical%20Inference-0D1117?style=flat-square&logoColor=white" alt="Statistical Inference"/>
+        </div>
+      </td>
+    </tr>
+  <table>
+</div>
+    <!--
+    <tr>
+      <td align="center">
+        <div style="border: 1px solid #fefefeff; border-radius: 8px; padding: 16px; margin: 16px 0;">
+        <img src="https://img.shields.io/badge/Natural%20Language%20Processing-74C0FC?style=for-the-badge&logoColor=white" alt="NLP"/>
+        <br>
+        <div>
+          <img src="https://img.shields.io/badge/BERT-0D1117?style=flat-square&logoColor=white" alt="BERT"/>
+          <img src="https://img.shields.io/badge/GPT%20Models-0D1117?style=flat-square&logoColor=white" alt="GPT Models"/>
+          <img src="https://img.shields.io/badge/Text%20Classification-0D1117?style=flat-square&logoColor=white" alt="Text Classification"/>
+          <img src="https://img.shields.io/badge/Sentiment%20Analysis-0D1117?style=flat-square&logoColor=white" alt="Sentiment Analysis"/>
+          <img src="https://img.shields.io/badge/Named%20Entity%20Recognition-0D1117?style=flat-square&logoColor=white" alt="NER"/>
+          <img src="https://img.shields.io/badge/Question%20Answering-0D1117?style=flat-square&logoColor=white" alt="QA"/>
+          <img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=flat-square&logoColor=white" alt="Prompt Engineering"/>
+        </div>
+      </td>
+      <td align="center">
+        <div style="border: 1px solid #fefefeff; border-radius: 8px; padding: 16px; margin: 16px 0;">
+        <img src="https://img.shields.io/badge/Computer%20Vision-A9E34B?style=for-the-badge&logoColor=white" alt="Computer Vision"/>
+        <br>
+        <div>
+          <img src="https://img.shields.io/badge/Object%20Detection-0D1117?style=flat-square&logoColor=white" alt="Object Detection"/>
+          <img src="https://img.shields.io/badge/Image%20Classification-0D1117?style=flat-square&logoColor=white" alt="Image Classification"/>
+          <img src="https://img.shields.io/badge/Segmentation-0D1117?style=flat-square&logoColor=white" alt="Segmentation"/>
+          <img src="https://img.shields.io/badge/Face%20Recognition-0D1117?style=flat-square&logoColor=white" alt="Face Recognition"/>
+          <img src="https://img.shields.io/badge/Image%20Generation-0D1117?style=flat-square&logoColor=white" alt="Image Generation"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://img.shields.io/badge/MLOps%20&%20Deployment-FF6B6B?style=for-the-badge&logoColor=white" alt="MLOps & Deployment"/>
+        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0;">
+        <br>
+        <div>
+          <img src="https://img.shields.io/badge/Model%20Optimization-0D1117?style=flat-square&logoColor=white" alt="Model Optimization"/>
+          <img src="https://img.shields.io/badge/CI%2FCD%20for%20ML-0D1117?style=flat-square&logoColor=white" alt="CI/CD for ML"/>
+          <img src="https://img.shields.io/badge/Docker%20Containers-0D1117?style=flat-square&logoColor=white" alt="Docker"/>
+          <img src="https://img.shields.io/badge/Model%20Monitoring-0D1117?style=flat-square&logoColor=white" alt="Model Monitoring"/>
+          <img src="https://img.shields.io/badge/Model%20Registry-0D1117?style=flat-square&logoColor=white" alt="Model Registry"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center"> 
+```python
+# My Data Science Journey in Code
+experience = {
+    "Data Science": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning"],
+    "Machine Learning": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning"],
+    "Deep Learning": ["Neural Networks", "CNN", "RNN", "LSTM", "GAN", "Transformers"],
+    "Computer Vision": ["Object Detection", "Image Classification", "Segmentation"],
+    "Tools & Frameworks": ["PyTorch", "TensorFlow", "Scikit-learn", "Hugging Face"]
+}
+continuous_learning = True
+while continuous_learning:
+    learn_new_technologies()
+    solve_complex_problems()
+    share_knowledge_with_community()
+```
+</div> -->
+</br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
+</div>
+
+## 📫 Connect with me
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/chandandehury/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:2chandandehury@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
