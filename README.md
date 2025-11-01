@@ -23,7 +23,7 @@
 
 <div align="center">
   
-  **_A portfolio designed to delve deep and mimic actual professional scenarios in Data Science and Artificial Intelligence._**
+  **_This portfolio is designed to delve deep and mimic actual professional scenarios in Data Science and Artificial Intelligence._**
 <br/></span>
 
 </div>
